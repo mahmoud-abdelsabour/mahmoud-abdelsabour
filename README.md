@@ -21,9 +21,9 @@ where I work extensively with real-world full-stack projects and modern testing 
 ### 🧪 Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express, C# (.NET basics)  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
+- **Databases:** MongoDB, MySQL  
 - **Testing:** React Testing Library, Playwright  
-- **Tools:** Git, Azure Data Studio
+- **Tools:** Git, Azure Data Studio, Docker
 
 ---
 
@@ -39,7 +39,7 @@ I am **open to full-time junior roles and internships** in:
 - Full Stack / Web Development
 - Backend or MERN-focused positions
 
-📫 Feel free to explore my repositories or reach out via LinkedIn.
+📫 Feel free to explore my repositories or reach out via LinkedIn or email.
 
 ---
 
